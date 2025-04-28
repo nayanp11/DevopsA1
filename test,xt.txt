@@ -1,2 +1,2 @@
-hello github
-this is a text file
+Hello github
+This is a text file
